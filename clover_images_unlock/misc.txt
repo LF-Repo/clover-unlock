@@ -1,0 +1,3 @@
+device=clover
+build_number=V9.6.4.0.ODJCNFD
+userdata_version=20180615.0000.00
